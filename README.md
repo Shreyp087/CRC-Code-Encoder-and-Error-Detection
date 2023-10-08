@@ -3,7 +3,7 @@
 ## Author
 - Shrey Patel
 - Email: shreyamitp@gmail.com
-
+  
 ## Introduction
 This repository contains a Python application for CRC (Cyclic Redundancy Check) encoding and error detection. The application provides a user-friendly interface for encoding and checking binary messages using CRC codes.
 
